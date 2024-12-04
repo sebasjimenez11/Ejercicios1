@@ -12,7 +12,7 @@ En la primera semana, se trabajó en ejercicios básicos que cubren:
 - Uso de estructuras de control básicas como bucles y condicionales.  
 Estos ejercicios están pensados para familiarizarse con los fundamentos de JavaScript.  
 
-### Semana 3: Lógica de Programación Avanzada  
+### Semana 3: Funciones
 
 En la tercera semana, se trabajó en ejercicios que abarcan:  
 - Manipulación avanzada de cadenas y caracteres.  
